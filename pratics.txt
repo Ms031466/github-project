@@ -1,3 +1,8 @@
  git remote set-url https://
  git push origin master
- git 
+ git clone and copy code from url 
+ git status 
+ git add file name
+ git commit -m
+ git remote -v
+ git remote add origin
